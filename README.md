@@ -7,7 +7,7 @@ _[Vanilla Android, no 3rd party libraries or frameworks]_
 * Architecture loosely based on Fowlers Uncle Bobs Clean Architecture.
 * Functional approach to the problems of asynchronisity in Android. Think RxJava, in fact, use RxJava. I would if this wasn't a vanilla Android project.
 * Why haven't I just used RxJava?  Well, because in Australia, where I reside at the time of this readmes birth, no one likes RxJava or RxAnything. Aussies think safe, but RxJava is awesome. It is scary. It changes the game. Suddenly all the apps that you had to be senior to write are quite easy. All the senior problems of concurrency are solved. That really frightens people.
-* RxJava, Dagger & awesomness version of this project; 
+* RxJava, Dagger & awesomness version of this project; https://github.com/paramsen/currency-android-reactive
 
 ## Architectural info
 Inspired by DDD, Fowler and React.
