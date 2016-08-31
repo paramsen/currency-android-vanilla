@@ -1,6 +1,5 @@
-# Android project
+# Currency Conv | Android
 _[Vanilla Android, no 3rd party libraries or frameworks]_
-## Currency Converter
 
 ## Features
 * Custom views and aggressive encapsulation. React -like architecture with View components.
