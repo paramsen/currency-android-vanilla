@@ -1,5 +1,5 @@
 # Currency Conv | Android
-_[Vanilla Android, no 3rd party libraries or frameworks]_
+_[Vanilla Android, no 3rd party libraries or frameworks]_  
 [Youtube Demo https://youtu.be/Usb9ef6KcrI] (https://youtu.be/Usb9ef6KcrI "Demo")
 
 ## Features
